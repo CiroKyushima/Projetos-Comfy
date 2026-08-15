@@ -6,14 +6,16 @@ O objetivo é explorar, de forma **prática e didática**, diferentes técnicas 
 
 Cada projeto possui seu próprio workflow, exemplos e documentação, permitindo estudar as técnicas individualmente e compreender como diferentes modelos e nós podem ser combinados para resolver problemas específicos.
 
+ao final de cada projeto, há um tutorial basico para o funcionamento do workflow, utilize a vontade para estudo ou projetos futuros.
+
 ---
 
 ##  Status dos Projetos
 
 ###  Desenvolvidos
 
-- [x] **Image Generation** — Geração de imagens a partir de prompts de texto
-- [x] **Background Removal** — Remoção automática do fundo de imagens
+- [x] **Geração de imagens** — Geração de imagens a partir de prompts de texto - nesse projeto utilizei o modelo Juggenaut_XL.
+- [x] **Remoção de Background** — Remoção automática do fundo de imagens - utilizei o modelo BiRefNet
 
 ### Em Desenvolvimento
 
